@@ -2,7 +2,7 @@
 
 Note:
 
-Run the application will adminitrator priviledges
+Run the application will administrator priviledges!!
 
 Steps to configure and execute:
 
